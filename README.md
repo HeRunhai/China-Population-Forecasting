@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # China Population Forecast Analysis
 
 This project aims to forecast China's population trends using advanced time series analysis methods, including ARIMA, ARIMAX, and other machine learning approaches. It incorporates external variables such as GDP, birth rate, and urbanization rate, providing a comprehensive framework for understanding population dynamics and influencing factors.
@@ -124,6 +123,4 @@ Given the small dataset (39 years) with only 5 years for testing, model reliabil
 
 
 **Start exploring China's population trends and forecasting future scenarios with this robust analytical framework!**
-=======
-# China-Population-Forecasting
->>>>>>> b11a5d4b7055c945c7380e326558a4a93bedbf6a
+
